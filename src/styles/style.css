@@ -1,0 +1,20 @@
+@import "mealList.css";
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+main {
+    width: 90%;
+    margin: 32px auto;
+}
+
+.content {
+    display: flex;
+}
