@@ -7,3 +7,6 @@
 * Menggunakan standar ES6 dalam menuliskan kode Javascript
 * Pengunaan Webpack sebagai module bundler dan sebagai environment dalam pengembangan
 * API dengan menggunakan konsep AJAX dalam menampilkan data yang dinamis
+
+### Meal Inspiration in Github Pages 
+**[Meal Inspiration](https://kurniatanggang.github.io/Meal_Inspri/)**
